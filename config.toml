@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "gentsterritory.com"
 languageCode = "en-au"
 title = "Gent's Territory"
 theme = "hugo-creative-theme"
@@ -44,7 +44,7 @@ paginate = 12
 			services  			= "Services"
 			portfolio 			= ""
 			contact   			= "Contact"
-			blog				= "Blog"
+			blog				= "News"
 
 
 	# Hero section
