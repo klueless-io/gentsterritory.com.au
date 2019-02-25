@@ -1,4 +1,4 @@
-baseurl = "gentsterritory.com"
+baseurl = "https://gentsterritory.com"
 languageCode = "en-au"
 title = "Gent's Territory"
 theme = "hugo-creative-theme"
