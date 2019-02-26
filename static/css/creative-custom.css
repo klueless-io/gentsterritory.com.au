@@ -79,7 +79,7 @@ p {
 
 @media(min-width:768px) {
     .navbar-default {
-        background-color: rgb(215,212, 221, .4);
+        background-color: rgb(215,212, 221, 0);
     }
 }
 
@@ -126,4 +126,7 @@ ul.footer_menu {
 .pagination > li > a:hover {
     color: #5f5e5a;
     background-color: #e3e3e3;
+}
+.contact-form>input[type='submit'] {
+    background: #b0bfc0;
 }
