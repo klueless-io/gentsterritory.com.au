@@ -2,7 +2,7 @@ baseurl = "https://gentsterritory.com"
 languageCode = "en-au"
 title = "Gent's Territory"
 theme = "hugo-creative-theme"
-googleAnalytics = ""
+googleAnalytics = "UA-45288102-12"
 paginate = 12
 
 [taxonomies]
