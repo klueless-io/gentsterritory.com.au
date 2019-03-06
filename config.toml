@@ -1,4 +1,4 @@
-baseurl = "https://gentsterritory.com"
+baseurl = "https://gentsterritory.com.au"
 languageCode = "en-au"
 title = "Gent's Territory"
 theme = "hugo-creative-theme"
@@ -26,7 +26,7 @@ paginate = 12
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
 	name = "Gent's Territory"
-	description = "Keeping your furry friends entertained and Active while preserving your beloved furniture from their sharp claws, Active Feline Solutions for scratch problems"
+	description = "My Shopping experience at gentsterritory.com has been phenomenal. It was easy to locate the products i was looking for and the price match ensured that i did"
 	copyright = "Copyright 2007-{year} Example LLC. All rights reserved."
 
 	# The path must be relative to the static folder
@@ -36,7 +36,7 @@ paginate = 12
 	# Navigation
 	[params.navigation]
 		brand = "Gent's Territory"
-		brand_logo = "img/logo_40h.png"
+		brand_logo = "img/logo-40h.png"
 
 		[params.navigation.links]
 			about     			= "About"
